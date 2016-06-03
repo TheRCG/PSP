@@ -26,8 +26,8 @@ greaterThan(QT_MAJOR_VERSION, 4) {
 BOOST_LIB_SUFFIX=-mgw49-mt-s-1_57
 BOOST_INCLUDE_PATH=C:/deps/boost_1_57_0
 BOOST_LIB_PATH=C:/deps/boost_1_57_0/stage/lib
-BDB_INCLUDE_PATH=C:/deps/db-4.8.30.NC/build_unix
-BDB_LIB_PATH=C:/deps/db-4.8.30.NC/build_unix
+BDB_INCLUDE_PATH=C:/deps/db-5.2.42.NC/build_unix
+BDB_LIB_PATH=C:/deps/db-5.2.42.NC/build_unix
 OPENSSL_INCLUDE_PATH=C:/deps/openssl/include
 OPENSSL_LIB_PATH=C:/deps/openssl
 MINIUPNPC_INCLUDE_PATH=C:/deps/miniupnpc-1.9
